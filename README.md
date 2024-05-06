@@ -20,7 +20,7 @@ It can do a lot of cool things, some of them being:
 - Open Github
 ## 📌Author
 👤 **Himanshu Nath Tiwari**
- Github: https://github.com/Himanshutiwari93
+- Github: https://github.com/Himanshutiwari93
 - LinkedIn: https://www.linkedin.com/in/himanshu-nath-tiwari/
 ## 📌Show your support
 Please ⭐️ this repository if this project helped you!
